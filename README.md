@@ -1,6 +1,8 @@
-Sobre mim
-🤔 Explorando novas tecnologias e desenvolvendo soluções de software
-🎓 Estudando Desenvolvimento de Software Multiplataforma na Fatec - Franca
+Olá, meu nome é Victor!
+Segue algumas informações sobre mim: 
+
+🤔 Estou explorando novas tecnologias e desenvolvendo soluções de software
+🎓 Atualmente estudando Desenvolvimento de Software Multiplataforma na Fatec - Franca
 💼 Trabalhando como Marketplace Assistant e em busca da minha primeira oportunidade no mundo tec! :D
 🌱 Aprendendo mais sobre Python, MySQL, Panda, Django e Selenium
 
