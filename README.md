@@ -29,13 +29,13 @@
 
 <br/>    
 <p align="center">
-  <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=victorsoaresho&show_icons=true&locale=en&theme=radical" alt="victorsoaresho"/>
-  <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=victorsoaresho&theme=radical" alt="victorsoaresho" />
+  <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=victorsoaresho&show_icons=true&locale=en&theme=tokyonight" alt="victorsoaresho"/>
+  <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=victorsoaresho&theme=tokyonight" alt="victorsoaresho" />
 </p>
 
 <br/>    
 <div align=center>
-   <img src="https://github-profile-trophy.vercel.app/?username=victorsoaresho&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=victorsoaresho&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </div>
 
 <div align="left">
@@ -51,4 +51,4 @@ Stalkers
 
 <!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=victorsoaresho&theme=xcode) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=120&section=footer"/>
