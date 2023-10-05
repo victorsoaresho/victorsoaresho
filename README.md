@@ -1,5 +1,7 @@
 Olá, meu nome é Victor!
 Segue algumas informações sobre mim: 
+![Victor](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 🤔 Estou explorando novas tecnologias e desenvolvendo soluções de software
 🎓 Atualmente estudando Desenvolvimento de Software Multiplataforma na Fatec - Franca
