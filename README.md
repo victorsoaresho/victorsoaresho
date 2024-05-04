@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4cc9f0&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Victor!;Sou+de+Franca,+SP;Sou+um+Desenvolvedor+Full+Stack;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4cc9f0&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Victor!;Sou+de+Franca,+SP;Sou+um+Desenvolvedor+Python;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
@@ -8,7 +8,7 @@
 
 <br/>  
 <p align="left"> 
-  😉  Olá, meu nome é Victor Soares. Eu sou um <strong>Desenvolvedor Full Stack</strong></strong>.
+  😉  Olá, meu nome é Victor Soares. Eu sou um <strong>Desenvolvedor Python</strong></strong>.
 </p>
 
 <p align="left">
